@@ -1,0 +1,1 @@
+exports.SECRET = 'tindertokents-122' // top secret
